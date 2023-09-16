@@ -1,2 +1,3 @@
 contiene el resultado de las operaciones
 contiene los nombres de los colores de los archivos js
+el orden de los productos no altera los factores
