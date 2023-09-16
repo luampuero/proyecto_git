@@ -1,1 +1,2 @@
 contiene el resultado de las operaciones
+contiene los nombres de los colores de los archivos js
